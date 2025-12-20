@@ -4,7 +4,7 @@ Soy Emi, un estudiante de ciencias de la computacion en Merida.
 
 Me gusta aprender sobre data science, data analysis y data enginerring ya sea viendo videos o siguiendo un recorrido en la universidad.
 
-Se usar python, al igual que se usar MYSQL, NOSQL (MongoDB), aprendi un poco de HTML, CSS Y JavaScript.
+Se usar python, C, C++. Java, al igual que se usar MYSQL, NOSQL (MongoDB), aprendi un poco de HTML, CSS Y JavaScript.
 
  __Datos Curiosos__
 
