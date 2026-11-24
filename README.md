@@ -10,7 +10,7 @@
 - 🔭 Currently applying analytical and software engineering skills to build data-driven solutions, automated reporting, and inventory forecasting queries.
 - 🧠 Passionate about turning raw data into actionable insights—from exploratory data analysis (EDA) and SQL querying to training predictive machine learning models.
 - 🌱 Continuously expanding my stack in **Data Analytics, ETL workflows, and Statistical Modeling**.
-- 📫 Reach me at: **emiliano031177@gmail.com** | [LinkedIn](https://www.linkedin.com/in/emiliano-solis-ek-6aa46a34a/)
+- 📫 Reach me at: **emiliano031177@gmail.com** | [LinkedIn](https://www.linkedin.com/in/emiliano-solis-ek)
 
 ---
 
