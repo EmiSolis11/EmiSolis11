@@ -27,10 +27,10 @@
 
 ---
 
-### 📌 Featured Data & Software Projects
-- **Human Activity Recognition (PAMAP2):** End-to-end Machine Learning pipeline built in Python (`Pandas`, `NumPy`, `Scikit-learn`), achieving **90.19% accuracy** using Random Forest with documented experimental benchmarks.
-- **Inventory & Operations Analytics:** Designed relational SQL queries and Python reporting scripts to track stock movement and support inventory forecasting.
-- **Employee Management System:** Desktop CRUD application developed in Java (OOP/Swing) integrated with MySQL via JDBC.
+### 📌 Featured Data & ML Projects
+- **[Human Activity Recognition (PAMAP2)](https://github.com/EmiSolis11/human-activity-recognition-pamap2):** End-to-end Machine Learning pipeline built in Python (`Pandas`, `NumPy`, `Scikit-learn`) using wearable sensor data, feature engineering, LOSO validation, and ensemble models—achieving **90.19% accuracy** with Random Forest.
+- **[E-Commerce Analytics](https://github.com/EmiSolis11/ecommerce-analytics):** Exploratory Data Analysis (EDA) and SQL analytics workflow in Python to uncover customer behavior, sales trends, and key business metrics.
+- **[Retail Inventory & Profitability BI](https://github.com/EmiSolis11/retail-inventory-profitability-bi):** Data analysis and Business Intelligence project evaluating stock turnover, inventory performance, and profit margins.
 
 ---
 
